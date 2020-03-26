@@ -1,2 +1,2 @@
-# fcc-infosec-helmet-project
-Part of the FCC Infosec Certification
+# Free Code Camp - Applied InfoSec Challenges
+=============================================
